@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BolsaEmpleo_Cliente", "BolsaEmpleo_Cliente\BolsaEmpleo_Cliente.csproj", "{D9EAEAE2-99E7-4285-8051-46285A0EA6F5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Api_Bolsa_empleo", "..\Api_Bolsa_empleo\Api_Bolsa_empleo\Api_Bolsa_empleo.csproj", "{CED500A9-81FB-4BF0-B10F-46D48404F030}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9EAEAE2-99E7-4285-8051-46285A0EA6F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9EAEAE2-99E7-4285-8051-46285A0EA6F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9EAEAE2-99E7-4285-8051-46285A0EA6F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9EAEAE2-99E7-4285-8051-46285A0EA6F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CED500A9-81FB-4BF0-B10F-46D48404F030}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CED500A9-81FB-4BF0-B10F-46D48404F030}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CED500A9-81FB-4BF0-B10F-46D48404F030}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CED500A9-81FB-4BF0-B10F-46D48404F030}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {66FCEA0D-8158-4DC8-BB6B-AE3B677638A7}
+	EndGlobalSection
+EndGlobal
